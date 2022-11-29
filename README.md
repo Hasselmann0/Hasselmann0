@@ -22,4 +22,4 @@
 
 - 🤵 I really like back-end development :)
 - 💻 Currently working only in small projects
-- 🚀 Exploring Angular with Csharp 🚀
+- 🚀 Exploring Csharp with Angular 🚀
