@@ -1,11 +1,7 @@
 <h2 align="left">
  <abc>
-  <br>Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hello! 
   <br> I'm Isaac Bastos, Back-end Student<br>
-  <br>
-    <image src="https://media2.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e472nq2jcwfkx7wsb3octveubthxpjqiagoi5blrh9p&rid=giphy.gif&ct=g" alt="Coder GIF" width="400" height="300" align="right">
-    
-    
  </abc>
 </h2> 
 <h2 align="left">🔧 Technologies and Tools I use:</h2>
